@@ -1,0 +1,10 @@
+venv/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+
+# created when the notebook runs
+kb_faiss/
+app_ui.py
+nohup.out
